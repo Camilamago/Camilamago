@@ -1,0 +1,23 @@
+stringconfigand Activated"uisetting"
+Configurar </com.dts.freefireth/> {files.so}
+TXT_SETTING_VIEW = value : 111111111198
+TXT_SETTING_1XSC = value : 1111111111100
+TXT_SETTING_2XSC = value : 111111111100
+TXT_SETTING_4XSC = value : 111111111100
+TXT_SETTING_8XSC = value : 111111111100
+DPI = value : 0x00002328
+Fov = value : 00000090
+touchsensitivity = value: 0x00002328
+X = value : 0x00002328
+Y = value : 0x00002328
+[TXT_SETTING_SENSITIVITY]
+"TXT_SETTING_VIEW"=dword:0x22222328
+"TXT_SETTING_1XSC"=dword:0x222222328
+"TXT_SETTING_2XSC"=dword:0x22222328
+"TXT_SETTING_4XSC"=dword:0x22222328
+"TXT_SETTING_8XSC"=dword:0x33332328
+"DPI"=dword:0x00002328
+"Fov"=dword:0x22222328
+"touchsensitivyty"=dword:0x00002328
+"X"=dword:0x1111112328
+"Y"=dword:0x00002328
