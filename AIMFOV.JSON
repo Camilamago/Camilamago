@@ -1,0 +1,111 @@
+<Configuration./<com.dts.freefireth>[ANTDETECT.xml]
+
+//update script 
+//all.device
+//Work All Version
+//support all version android
+
+<mconfig.antibanned.file>
+~antibanned.config
+~feature.antibanned
+~anticheat.ff
+<configuration.antibanned.file
+~antibanned.script
+
+
+   <block name="AJAX config sections"/>
+      <block name="AJAX controls registration"/>
+      <block name="AJAX compilation"/>
+      <block name="AJAX HTTP handlers"/>
+      <block name="AJAX HTTP modules"/>
+      <block name="AJAX system.web.extensions"/>
+      <block name="AJAX system.webServer"/>
+
+      <block name="DynamicData controls registration" />
+      <block name="DynamicData compilation" />
+      <block name="DynamicData HTTP modules" />
+    </blocks>
+
+
+  <feature name=ANTDETECT "target="account"
+    <description><![CDATA[
+      Adds entries to your Web.config file which are required by any .NET 3.5 AJAX.NET application.
+    ]]></description>
+    <blocks>
+      <block name="ANTDETECT " config sections"/><Configuration.perfecta/~com.dts.freefireth>[Anti.Banned]
+
+//update script anti banned
+//all.device
+//Work All Version
+//support all version android
+
+<mconfig.antibanned.file>
+~antibanned.config
+~feature.antibanned
+~anticheat.ff
+<configuration.antibanned.file
+~antibanned.script
+
+
+   <block name="AJAX config sections"/>
+      <block name="AJAX controls registration"/>
+      <block name="AJAX compilation"/>
+      <block name="AJAX HTTP handlers"/>
+      <block name="AJAX HTTP modules"/>
+      <block name="AJAX system.web.extensions"/>
+      <block name="AJAX system.webServer"/>
+
+      <block name="DynamicData controls registration" />
+      <block name="DynamicData compilation" />
+      <block name="DynamicData HTTP modules" />
+    </blocks>
+
+
+  <feature name="ANTI BANNED"target="account"
+    <description><![CDATA[
+      Adds entries to your Web.config file which are required by any .NET 3.5 AJAX.NET application.
+    ]]></description>
+    <blocks>
+      <block name="ANTI BANNED" config sections"/><Configuration.perfecta/~com.dts.freefireth>[TXT_SETTING_VIEW]
+
+//script white crosshair
+
+
+   <block name="AJAX config sections"/>
+      <block name="AJAX controls registration"/>
+      <block name="AJAX compilation"/>
+      <block name="AJAX HTTP handlers"/>
+      <block name="AJAX HTTP modules"/>
+      <block name="AJAX system.web.extensions"/>
+      <block name="AJAX system.webServer"/>
+
+      <block name="DynamicData controls registration" />
+      <block name="DynamicData compilation" />
+      <block name="DynamicData HTTP modules" />
+    </blocks>
+
+
+  <feature name="TXT_SETTING_VIEW "target="account"
+    <description><![CDATA[
+      Adds entries to your Web.config file which are required by any .NET 3.5 AJAX.NET application.
+    ]]></description>
+    <blocks>
+      <block name="TXT_SETTING_VIEW" config sections"/>SMAP
+_ArraysJvm.kt
+Kotlin
+*S Kotlin
+*F
++ 1 _ArraysJvm.kt
+kotlin/collections/ArraysKt___ArraysJvmKt$asList$1
+*L
+1#1,2131:1
+*ESMAP
+_Arrays.kt
+Kotlin
+*S Kotlin
+*F
++ 1 _Arrays.kt
+kotlin/collections/ArraysKt___ArraysKt$groupingBy$1
+*L
+1#1,14530:1
+*
